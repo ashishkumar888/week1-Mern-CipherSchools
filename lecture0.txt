@@ -1,0 +1,10 @@
+git config --global user.name "Mahak"
+
+git config --global user.email "mehakyadav1502@gmail.com"
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ymahak/week1-MERN-CipherSchools
+git push -u origin main
