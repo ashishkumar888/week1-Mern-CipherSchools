@@ -1,0 +1,25 @@
+                 GIT COMMANDS CLASS 3
+
+homepage.html
+
+git status
+git add homepage.html
+
+then delete the folder
+git status 
+
+// we get new file: homepage.html
+          deleted: homepage.html
+
+if we use, git add.
+then, git status     -> we come to know there is no track
+
+// checkout, reset
+
+git checkout 3a52607               to change head from current state to a specific state
+git checkout master
+
+git log --oneline           to reset
+
+git add.
+git commit -m "New Style.css"
