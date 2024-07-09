@@ -1,0 +1,16 @@
+   GIT Commands - Class 2
+
+In this lecture, We created index.html, style.css, app.js files and added them to GitHub repo withe the help
+of commands below                                            
+
+git status
+git add file_name
+git add.
+
+git rm --cached file_name
+
+git commit -m "your_message"
+
+git log (for previous track)
+
+git log --oneline
